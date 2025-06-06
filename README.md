@@ -12,7 +12,7 @@ Backend en Django para gestión de tareas.
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/MrLechoza/Task-Backend.git
-   cd task-backend/taskmanager
+   cd taskmanager
    ```
 
 2. Crea y activa un entorno virtual:
